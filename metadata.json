@@ -1,0 +1,8 @@
+{
+  "name": "Remix VortexBridge: Structural Digital Twin \u0026 Dynamics Platform",
+  "description": "High-fidelity real-time 3D suspension bridge digital twin, modal dynamics, vortex-induced vibration analysis, piezoelectric energy harvesting, and structural health monitoring platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
